@@ -54,4 +54,22 @@ This sheet contains the analysis of the January effect by comparing the monthly 
 - `Returns (%)`: Monthly returns in percentage
 - `Jan Returns`: Returns for the month of January
 - `Other month returns`: Returns for other months
-- `December 2020 ret
+- `December 2020 returns`: Returns for December 2020 for comparison
+
+## Summary of Results
+
+A summary of the results can be found in the "Top Sheet" tab of the Excel file. The key findings include:
+
+1. **Weak EMH**: Results from the Runs test indicate whether the market for AMD follows the weak form of EMH.
+2. **Post Earnings Drift**: The event studies reveal the presence of any post earnings announcement drift.
+3. **January Effect**: Comparison of January returns with other months to check for the January effect.
+
+## How to Use
+
+1. Download the `Market Efficiency.xlsx` file.
+2. Open the file using any spreadsheet software (e.g., Microsoft Excel, Google Sheets).
+3. Navigate through the sheets to explore the data and results for each part of the analysis.
+
+## Conclusion
+
+This analysis provides insights into the market efficiency of AMD using historical price data and earnings announcements. The findings can be useful for understanding market behavior and making informed investment decisions.
